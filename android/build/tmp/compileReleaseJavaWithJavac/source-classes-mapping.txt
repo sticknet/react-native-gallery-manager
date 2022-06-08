@@ -1,0 +1,8 @@
+org/pentarex/rngallerymanager/RNGalleryManagerPackage.java
+ org.pentarex.rngallerymanager.RNGalleryManagerPackage
+org/pentarex/rngallerymanager/GalleryCursorManager.java
+ org.pentarex.rngallerymanager.GalleryCursorManager
+org/pentarex/rngallerymanager/BuildConfig.java
+ org.pentarex.rngallerymanager.BuildConfig
+org/pentarex/rngallerymanager/RNGalleryManagerModule.java
+ org.pentarex.rngallerymanager.RNGalleryManagerModule
